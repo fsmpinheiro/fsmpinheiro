@@ -13,7 +13,7 @@
 - 🔭 Atualmente estou procurando emprego como Desenvolvedor Front-End/Back-End.
 - 🌱 Estou aprendendo sobre Google Colab e Machine Learning.
 - 👨‍💻 Sou um amante da tecnologia. Estou sempre aberto a colaborar em projetos e ideias inovadoras.
-- 💬 Pergunte-me sobre `[Java, JavaScript, Vue, NextJs, Javascript]`.
+- 💬 Pergunte-me sobre `[Java, JavaScript, Vue, NextJs, React]`.
 - 😄 Pronomes: Ele/Dele.
 - ❤️ Hobbies: 💻 Assistir filmes e séries, 🎶 ouvir música 🏃‍♂️ correndo ou 🚶‍♂️ caminhando,  🎮 jogar video games.
 - ⚡ Fato interessante: Sou apaixonado por hardware e eletrônica.
