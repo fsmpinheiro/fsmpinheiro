@@ -10,8 +10,8 @@
 
 - 🙋‍♂️ Meu nome é Samuel Pinheiro.
 - 🎓 Sou graduando em Ciência da Computação na <a href="https://www.ufc.br">Federal University of Ceará</a>.
-- 🔭 Atualmente estou procurando emprego como Desenvolvedor Front-End/Back-End.
-- 🌱 Estou aprendendo sobre Google Colab e Machine Learning.
+- 🔭 Atualmente trabalho como Desenvolvedor Front-End/Back-End Freelancer.
+- 🌱 Estou sempre aprendendo sobre Google Colab e Machine Learning.
 - 👨‍💻 Sou um amante da tecnologia. Estou sempre aberto a colaborar em projetos e ideias inovadoras.
 - 💬 Pergunte-me sobre `[Java, JavaScript, Vue, NextJs, React]`.
 - 😄 Pronomes: Ele/Dele.
