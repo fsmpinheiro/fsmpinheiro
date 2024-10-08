@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 - 🙋‍♂️ My name is Samuel Pinheiro.
 - 🎓 I'm an graduating in Computer Science at <a href="https://www.ufc.br">Federal University of Ceará</a>.
-- 🔭 I’m currently looking for a job as Front-End/Back-End Delevoper.
-- 🌱 I’m learning about Google Colab and Machine Lerning.
+- 🔭 I’m currently a Front-End/Back-End Freelancer Delevoper.
+- 🌱 I’m always learning about Google Colab and Machine Lerning.
 - 👨‍💻 I'm a technology lover. I'm always open to collaborating on innovative projects and ideas.
 - 💬 Ask me about `[Java, JavaScript, Vue, NextJs, React]`.
 - 😄 Pronouns: Him/His.
