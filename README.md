@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/CodeMayPy/CodeMayPy/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/fsmpinheiro/fsmpinheiro/output/snake.svg" alt="Snake animation" />
 
 ###

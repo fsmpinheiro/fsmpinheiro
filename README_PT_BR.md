@@ -26,3 +26,9 @@
     <em>"O caminho dos preguiçosos é cheio de obstáculos, ao passo que o do diligente não tem quaisquer embaraços."</em> Benjamin Franklin
   </h6>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/fsmpinheiro/fsmpinheiro/output/snake.svg" alt="Snake animation" />
+
+###
