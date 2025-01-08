@@ -30,3 +30,9 @@ Here are some ideas to get you started:
     <em>"The path of the lazy is full of obstacles, while the path of the diligent is free from obstacles."</em> Benjamin Franklin
   </h6>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/CodeMayPy/CodeMayPy/output/snake.svg" alt="Snake animation" />
+
+###
