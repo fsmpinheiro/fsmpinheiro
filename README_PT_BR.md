@@ -29,6 +29,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/fsmpinheiro/fsmpinheiro/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/fsmpinheiro/fsmpinheiro/blob/ad7a750cf5e164340a913d567708be31c2375510/.github/snake.yml" alt="Snake animation" />
 
 ###
