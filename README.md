@@ -16,7 +16,7 @@
 Here are some ideas to get you started:
 -->
 - 🙋‍♂️ My name is Samuel Pinheiro.
-- 🎓 I'm an graduating in Computer Science at <a href="https://www.ufc.br">Federal University of Ceará</a>.
+- 🎓 I'm an Computer Science graduate at <a href="https://www.ufc.br">Federal University of Ceará</a>.
 - 🔭 I’m currently a Full Stack Web Delevoper.
 - 🌱 I've over 3 years of professional experience working on projects in Java and JavaScript.
 
